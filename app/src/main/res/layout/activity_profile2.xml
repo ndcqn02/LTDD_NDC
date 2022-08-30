@@ -122,11 +122,11 @@
 
     <TextView
         android:id="@+id/txtProfileName"
-        android:layout_width="121dp"
-        android:layout_height="38dp"
-        android:layout_marginTop="140dp"
+        android:layout_width="165dp"
+        android:layout_height="51dp"
+        android:layout_marginTop="132dp"
         android:gravity="center_vertical"
-        android:text="Profile Name"
+        android:text="Nguyễn Đức Cường        2050531200110"
         android:textColor="#FFFFFF"
         android:textSize="18sp"
         android:textStyle="bold"
